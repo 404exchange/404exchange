@@ -1,5 +1,4 @@
-### Welcome to ~~404 Exchange~~ the Lost and Found!
-
+### Welcome to my page! There may not be much to look at for a while. 
 <!--
 **404exchange/404exchange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
